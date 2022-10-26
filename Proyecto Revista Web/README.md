@@ -1,1 +1,1 @@
-index.html
+../paginasRevista/index.html
